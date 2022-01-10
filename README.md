@@ -1,5 +1,5 @@
 # Data-Mining-Programs
-Code and experiments relating to various Data Mining and Machine Learning methods. This code was written for UVic SENG 474 (Data Mining).
+Code and experiments relating to various Data Mining and Machine Learning methods explored in UVic SENG 474 (Data Mining).
 
 A1: Python implementation of three Supervised Learning ML methods: a Decision Tree, Random Forest, and Neural Network. Experiments and analysis involving these three ML methods on two binary classification problems.
 
